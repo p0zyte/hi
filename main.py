@@ -1,3 +1,3 @@
 import discord
-token = 'MTIwODk4MDMzNDEyNTc4MTA2Mw.GgT4fM.UQ61fwhkvwFsKU7j0tII3rN5PVEQ-Tekf7dH_8'
+token = 'MTIwODk4MDMzNDEyNTc4MTA2Mw.GB82i2.cgcYeVicylh7hC8ZNdfovhERP65LKq4Gm0ZOTA'
 
